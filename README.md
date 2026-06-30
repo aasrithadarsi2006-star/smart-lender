@@ -119,45 +119,6 @@ Smart-Lender/
 ├── app.py
 ├── requirements.txt
 └── README.md
-```
-
----
-
-## ▶️ How to Run the Project
-
-### Step 1
-
-Clone the repository.
-
-```bash
-git clone <repository-link>
-```
-
-### Step 2
-
-Install the required libraries.
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 3
-
-Run the Flask application.
-
-```bash
-python app.py
-```
-
-### Step 4
-
-Open your browser and visit:
-
-```text
-http://127.0.0.1:5000/
-```
-
----
 
 ## 📊 Expected Outcome
 
@@ -178,20 +139,10 @@ http://127.0.0.1:5000/
 
 ---
 
-## 👨‍💻 Author
+Team lead
 
 **Darsi Venkata Sai Lakshmi Aasritha**
 
 B.Tech Student
 
----
 
-## 📄 License
-
-This project is developed for educational and internship purposes only.
-
----
-
-## ⭐ Acknowledgement
-
-This project was developed as part of the **Smart Bridge / APSCHE Internship Program** to gain practical experience in Machine Learning, Data Analysis, and Flask Web Development.
